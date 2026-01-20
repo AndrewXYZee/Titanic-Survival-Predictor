@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction
+# Titanic-Survival-Predictor
 ML project which based on passenger data predict if he/she gonna survive or not!
 
 ### Demo
